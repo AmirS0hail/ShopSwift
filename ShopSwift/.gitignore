@@ -1,0 +1,43 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.env
+.ss_env/
+node_modules/
+bower_components/
+*.log
+*.bak
+
+# Unit test / coverage reports
+.coverage
+htmlcov/
+
+# Django related
+*.sqlite3
+*.pyc
+*.db
+*.swp
+*.swo
+*.bak
+*.orig
+*.rej
+
+# Secret key
+*.secret_key
+
+# Debug log
+*.log
+
+# IDE / Editor specific
+.idea/
+.vscode/
+
+# Ignore the pipenv virtual environment folder
+# Uncomment if using Pipenv
+# .venv/
