@@ -3,7 +3,7 @@
 # Project Name
 
 ## Description
-Briefly describe your project here.
+Django marketplace
 
 ## Getting Started
 
