@@ -8,7 +8,7 @@ __pycache__/
 
 # Distribution / packaging
 .env
-.ss_env/
+ss_env/
 node_modules/
 bower_components/
 *.log
