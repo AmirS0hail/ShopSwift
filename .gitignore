@@ -41,3 +41,5 @@ htmlcov/
 # Ignore the pipenv virtual environment folder
 # Uncomment if using Pipenv
 # .venv/
+ShopSwift/ShopSwift/__pycache__/
+ShopSwift/db.sqlite3
